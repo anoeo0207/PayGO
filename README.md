@@ -1,6 +1,6 @@
 # 🪙 PayGO - Hệ thống Ví Điện Tử Thông Minh
 
-![PayGO](image/PayGO)
+![PayGO](image/PayGO.png)
 
 
 ## 📌 Tổng quan
